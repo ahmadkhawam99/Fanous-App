@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🪔 Fanous App
+#  Fanous App
 
 ### Flutter E-Commerce Platform — App & Web
 
