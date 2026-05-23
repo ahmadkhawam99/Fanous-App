@@ -18,7 +18,7 @@
 
 ## 📖 About
 
-Fanous is a complete e-commerce platform that enables users to browse, search, and purchase products across multiple categories. The project includes both a customer-facing Flutter app/web and a full admin dashboard for inventory and order management.
+Fanous is a complete e-commerce platform that enables users to browse, search, and purchase products across multiple categories. Built with Flutter for both mobile and web from a single codebase.
 
 > ⚠️ This repository contains project documentation only. Source code is private for client confidentiality.
 
@@ -26,18 +26,11 @@ Fanous is a complete e-commerce platform that enables users to browse, search, a
 
 ## ✨ Features
 
-### 🛍️ Customer Side
 - Multi-category product browsing
 - Product search and filtering
 - Shopping cart and checkout flow
 - Order tracking
 - Responsive design (Mobile + Web)
-
-### ⚙️ Admin Dashboard
-- Product & inventory management
-- Order management and status updates
-- User management
-- Sales overview
 
 ---
 
@@ -48,7 +41,7 @@ Fanous is a complete e-commerce platform that enables users to browse, search, a
 | Framework | Flutter (Mobile + Web) |
 | Language | Dart |
 | State Management | BLoC |
-| Backend | REST API |
+| API Integration | RESTful API |
 | Architecture | Clean Architecture |
 
 ---
@@ -67,5 +60,3 @@ Fanous is a complete e-commerce platform that enables users to browse, search, a
 **Ahmad Basher Khawam** — Junior Flutter Developer
 - GitHub: [@ahmadkhawam99](https://github.com/ahmadkhawam99)
 - Email: ahmadkhawam99@gmail.com
-
-</div>
